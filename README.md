@@ -1,6 +1,9 @@
 
+[![Assista ao vídeo de demonstração](https://www.youtube.com/watch?v=Jg14p-JZRmU)
 
 Este App faz parte de um projeto do programa de residência em TI na área de Desenvolvimento para Dispositivos Móveis, uma iniciativa do Ministério da Ciência, Tecnologia e Inovações, em parceria com a Universidade Estadual do Ceará (UECE) e o Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+
+<img width="1440" alt="Captura de Tela 2024-01-27 às 14 22 58" src="https://github.com/victorbrigido/reMind/assets/110338761/35feea74-c299-4fce-b243-08ce4d6b8af5">
 
 Este aplicativo para iOS foi projetado para ajudar os usuários a gerenciar seus materiais de aprendizado de forma eficiente usando flashcards e o sistema de repetição espaçada. O aplicativo permite que os usuários criem flashcards personalizados com termos e seus significados, que são então agendados para revisão com base no algoritmo de repetição espaçada. As principais características do aplicativo incluem:
 
