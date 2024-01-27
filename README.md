@@ -1,5 +1,5 @@
 
-[![Assista ao vídeo de demonstração](https://www.youtube.com/watch?v=Jg14p-JZRmU)
+[Assista ao vídeo de demonstração](https://www.youtube.com/watch?v=Jg14p-JZRmU)
 
 Este App faz parte de um projeto do programa de residência em TI na área de Desenvolvimento para Dispositivos Móveis, uma iniciativa do Ministério da Ciência, Tecnologia e Inovações, em parceria com a Universidade Estadual do Ceará (UECE) e o Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
